@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Data files (too big to commit)
+data/
+*.csv
+*.tsv
+
+# Model files (optional if you want users to train themselves)
+# models/
