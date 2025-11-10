@@ -43,26 +43,23 @@ python train.py
 3. **Get recommendations**
 
 ```bash
-python recommend.py "Shape of You" --num 5
-```
-
-or run interactively:
-
-```bash
 python recommend.py
+
+Enter a song: {Enter name of song here}
 ```
+
 
 ---
 
 ## Example Output
 
 ```
-Getting recommendations for 'Shape of You'...
-
 Recommended songs:
-1. Perfect by Ed Sheeran (Similarity: 92.45%)
-2. Thinking Out Loud by Ed Sheeran (Similarity: 90.12%)
-3. ...
+1044. The Lonely Mountains by Kim Janssen (Similarity: 99.76%)
+9135. You Turned To Me by Elvis Costello (Similarity: 99.68%)
+5044. Northern Italy by Margaux Beylier (Similarity: 99.66%)
+9729. I've Never Been In Love Before by Linda Ronstadt (Similarity: 99.62%)
+2311. Across the Borderline by Willie Nelson (Similarity: 99.59%)
 ```
 
 ---
